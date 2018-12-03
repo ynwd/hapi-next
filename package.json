@@ -1,5 +1,22 @@
 {
   "name": "@ynwd/hapi-next",
   "version": "1.0.0",
-  "description": "hapi next plugins"
+  "description": "hapijs nextjs plugins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynwd/hapi-next.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "hapi",
+    "next",
+    "ssr"
+  ],
+  "dependencies": {
+    "hapi": "^17.8.1",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
 }
