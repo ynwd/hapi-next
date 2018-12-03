@@ -5,10 +5,10 @@ Next.js wrapper for hapi
 
 ## Get started
 
-- [Create Hapi.js Application]()
-- [Run Hello World Application]()
-- [Add Next.js Application]()
-- [Open next.js end point]()
+- [Create Hapi.js Application](https://github.com/ynwd/hapi-next#hello-world-application)
+- [Run Hello World Application](https://github.com/ynwd/hapi-next#run-hapi-hello-world-application)
+- [Add Next.js Application](https://github.com/ynwd/hapi-next#add-hapi-next-plugin)
+- [Source code example](https://github.com/ynwd/hapi-next#source-code-example)
 
 ## Hello World Application
 Make a folder & generate a plain old package.json [without having it ask any questions](https://docs.npmjs.com/cli/init)
@@ -188,3 +188,8 @@ export default () => (
   </ul>
 )
 ```
+
+Now open: http://localhost:3000
+
+## Source code example
+This is the completed code we just created: [awesome-project](https://github.com/ynwd/hapi-next/tree/master/awesome-project)
