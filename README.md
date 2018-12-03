@@ -59,7 +59,7 @@ That comands will install & saves any specified packages into dependencies
 ```
 
 Create `server.js`
-```
+```javascript
 const Hapi = require('hapi')
 
 const server = Hapi.server({
