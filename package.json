@@ -1,6 +1,6 @@
 {
   "name": "@ynwd/hapi-next",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "hapijs nextjs plugins",
   "repository": {
     "type": "git",
